@@ -1,11 +1,11 @@
-# BIG HEADER 
-## MEDIUM HEADER
-### SMALLER HEADER
-###### IS THIS EVEN A HEADER AT THIS POINT
-
+# LECTURE 2 Markdown demo 
 
 * bagel
 * cream cheese
 * doppio
 * yerba mate
 * sparkling water
+
+1. Egg
+2. Bread
+3. OJ
